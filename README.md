@@ -1,3 +1,3 @@
 #Introductory Lesson
 
-Youtube tutorial on github use.
+Youtube tutorial on GitHub use.
